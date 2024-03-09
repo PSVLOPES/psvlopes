@@ -28,6 +28,6 @@
 <a href="https://www.linkedin.com/in/pablo-lopes-033b3b59/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<!--Para esta etapa funcionar, é necessário abrir uma workflow com o código em yml -->
 
  ![Snake animation](https://github.com/PSVLOPES/PSVLOPES/blob/output/github-contribution-grid-snake.svg)
