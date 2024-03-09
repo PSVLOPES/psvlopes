@@ -30,4 +30,4 @@
 
 <!--Para esta etapa funcionar, é necessário abrir uma workflow com o código em yml -->
 
- ![Snake animation](https://github.com/psvlopes/psvlopes/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/PSVLOPES/psvlopes/blob/output/github-contribution-grid-snake.svg)
