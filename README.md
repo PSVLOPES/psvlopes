@@ -14,7 +14,7 @@
 - 🌱 Aprendendo mais sobre testes de API utilizando Rest Assured.
 
   <br>
-<p><img width="320" height="320" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="psvlopes" /></p>
+<p><img width="320" height="320" align="right" src="https://github.com/PSVLOPES/psvlopes/blob/main/animation_500_kxa883sd.gif" alt="psvlopes" /></p>
 
 ## Minhas Skills
 
