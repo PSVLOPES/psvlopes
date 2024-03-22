@@ -26,7 +26,7 @@
 
 **Automação de Testes:**
 <br>
-<img alt="RestAssured" width="20" height="20" src="https://rest-assured.io/img/logo-transparent.png"></a></img>![RestAssured](https://img.shields.io/badge/RestAssured-black?logo=https://media.licdn.com/dms/image/D4D12AQH1GCJbqMykGw/article-cover_image-shrink_423_752/0/1691676585590?e=1716422400&v=beta&t=fXheADrcdQqir1XSIyOdI20Zt2AEUR0QTiWtoxq8BTU)
+<a href="https://github.com/PSVLOPES/automatiza_catapi"><img alt="RestAssured" width="20" height="20" src="https://rest-assured.io/img/logo-transparent.png">![RestAssured](https://img.shields.io/badge/RestAssured-black?logo=https://media.licdn.com/dms/image/D4D12AQH1GCJbqMykGw/article-cover_image-shrink_423_752/0/1691676585590?e=1716422400&v=beta&t=fXheADrcdQqir1XSIyOdI20Zt2AEUR0QTiWtoxq8BTU)</a></img>
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <img alt="RobotFramework" width="20" height="20" src="https://3970773043-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZKwBF6q0tAGXlIih38HL%2Fuploads%2FbqbpQ2aLFYda8GCLvLJF%2FNewman2.png?alt=media&token=6940c83e-9d3f-4180-98a0-bd5fc91f48d4"></a></img>![Newman](https://img.shields.io/badge/Newman-black?logo=https://3970773043-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZKwBF6q0tAGXlIih38HL%2Fuploads%2FbqbpQ2aLFYda8GCLvLJF%2FNewman2.png?alt=media&token=6940c83e-9d3f-4180-98a0-bd5fc91f48d4)
 <img alt="RobotFramework" width="140" height="16" src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/927bccfd8d2d7ad89b17972cb1dc27f432ffac3f.png"></a></img>
