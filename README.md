@@ -30,7 +30,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <img alt="RobotFramework" width="20" height="20" src="https://3970773043-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZKwBF6q0tAGXlIih38HL%2Fuploads%2FbqbpQ2aLFYda8GCLvLJF%2FNewman2.png?alt=media&token=6940c83e-9d3f-4180-98a0-bd5fc91f48d4"></a></img>![Newman](https://img.shields.io/badge/Newman-black?logo=https://3970773043-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZKwBF6q0tAGXlIih38HL%2Fuploads%2FbqbpQ2aLFYda8GCLvLJF%2FNewman2.png?alt=media&token=6940c83e-9d3f-4180-98a0-bd5fc91f48d4)
 <img alt="RobotFramework" width="140" height="16" src="https://europe1.discourse-cdn.com/standard21/uploads/robotframework1/original/1X/927bccfd8d2d7ad89b17972cb1dc27f432ffac3f.png"></a></img>
-<img width="20" height="20" src="https://img.shields.io/badge/JMeter-D2691E?style=for-the-badge&logo=apachejmeter&logoColor=white">
+<img width="60" height="18" src="https://img.shields.io/badge/JMeter-D2691E?style=for-the-badge&logo=apachejmeter&logoColor=white">
 
 **Databases:**
 <br>
@@ -38,6 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+<img width="60" height="18" src="https://img.shields.io/badge/Oracle-FFA500?style=for-the-badge&logo=oracle&logoColor=white">
 
 
 **Softwares e Utilidades:**
@@ -45,9 +46,9 @@
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 <a href="#"><img alt="Jira" width="50" height="20" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<img width="20" height="20" src="https://img.shields.io/badge/IntelliJ%20IDEA-2F4F4F?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img width="90" height="20" src="https://img.shields.io/badge/IntelliJ%20IDEA-2F4F4F?style=for-the-badge&logo=intellijidea&logoColor=white">
 <a href="#"><img alt="AWS" width="90" height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<img width="20" height="20" src="https://img.shields.io/badge/Swagger-228B22?style=for-the-badge&logo=swagger.js&logoColor=white">
+<img width="65" height="20" src="https://img.shields.io/badge/Swagger-228B22?style=for-the-badge&logo=swagger.js&logoColor=white">
 
 
 **DevOps:**
